@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=1FF741&width=435&lines=Higher)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F4F7F5&width=435&lines=or)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F7132B&width=435&lines=Lower)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F7F7F7&width=435&lines=Game)](https://git.io/typing-svg)
+
 <div style="display: flex; align-items: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=1FF741&width=200&lines=Higher" alt="Higher" />
   <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F4F7F5&width=100&lines=or" alt="or" />
