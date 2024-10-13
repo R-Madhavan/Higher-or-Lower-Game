@@ -1,9 +1,4 @@
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=40&pause=1000&color=1FF741&width=435&lines=Higher+or+Lower+Game)](https://git.io/typing-svg)
-
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=1FF741&width=435&lines=Higher+or+Lower+Game)](https://git.io/typing-svg)
 
 ## Description
 This is a simple Python-based game inspired by the popular "Higher or Lower" game. The objective is to guess which celebrity has more followers on social media. You will be presented with two random celebrities from a dataset, and you must choose the one you think has more followers.
