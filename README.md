@@ -1,8 +1,7 @@
-
 <div style="display: flex; align-items: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=1FF741&width=200&lines=Higher" alt="Higher" style="margin-right: -20px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F4F7F5&width=100&lines=or" alt="or" style="margin-right: -20px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F7132B&width=200&lines=Lower" alt="Lower" style="margin-right: -20px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=1FF741&width=200&lines=Higher" alt="Higher" style="margin-right: -50px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F4F7F5&width=100&lines=or" alt="or" style="margin-right: -50px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F7132B&width=200&lines=Lower" alt="Lower" style="margin-right: -50px;" />
   <img src="https://readme-typing-svg.demolab.com?font=Domine&weight=500&size=30&pause=1000&color=F7F7F7&width=200&lines=Game" alt="Game" />
 </div>
 
